@@ -1,0 +1,10 @@
+* Runoff originally computed from /archive/gold/datasets/reanalysis/JRA55-do/v1.5.0 (bad padding)
+
+* Re-generated bitwise on 4/20/2023 with provided conda env and files from
+/archive/gold/datasets/reanalysis/JRA55-do/v1.5.0_null_char/padded : all checksums reproduce
+
+* Using the files from /archive/gold/datasets/reanalysis/JRA55-do/v1.5.0_no_null_char/padded
+changes the md5sum of the 1958 files but they appear identical using nccmp
+
+* Using nccmp, all produced runoff files appear identical to the JRA v1.4.0 version
+with both null char or not
